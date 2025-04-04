@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F75AFF&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FB6D94&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
   </a>
 </div>
 <h4 align="center">Estudante do curso de Engenharia da Computação | Univesp </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bragiattovsk&label=Profile%20views&color=FF69B4&style=flat" alt="Bragiattovsk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bragiattovsk&label=Profile%20views&color=FB6D94&style=flat" alt="Bragiattovsk" /> </p>
 
 - 🌱 Aprendendo Bootstrap
 - 📚 Cursando Fullstack Python - EBAC
