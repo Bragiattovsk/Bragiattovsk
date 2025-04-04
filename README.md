@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**Bragiattovsk/Bragiattovsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +7,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center" style="display: flex; justify-content: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bragiattovsk&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bragiattovsk&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bragiattovsk/Bragiattovsk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bragiattovsk/Bragiattovsk/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bragiattovsk/Bragiattovsk/output/github-contribution-grid-snake.svg">
+</picture>
