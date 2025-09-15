@@ -9,6 +9,7 @@
 
 - 🌱 Aprendendo Bootstrap
 - 📚 Cursando Fullstack Python - EBAC
+- 💻 Cursando Engenharia da Computação - Univesp
 
 ##
 <br>
