@@ -15,13 +15,6 @@
 ##
 <br>
 <div align="center" style="display: flex; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bragiattovsk&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bragiattovsk&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-##
-<br>
-<div align="center" style="display: flex; justify-content: center;">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Bragiattovsk&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bragiattovsk&layout=compact&langs_count=16&theme=dracula"/>
 </div>
