@@ -3,13 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FB6D94&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
   </a>
 </div>
-<h4 align="center">Estudante do curso de Engenharia da Computação | Univesp </h4>
+<h4 align="center">Engenheiro da Computação | Bacharel em Tecnologia da Informação </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bragiattovsk&label=Profile%20views&color=FB6D94&style=flat" alt="Bragiattovsk" /> </p>
 
-- 🌱 Aprendendo Bootstrap
+- 🌱 Estudando React e Tailwind
 - 📚 Cursando Fullstack Python - EBAC
-- 💻 Cursando Engenharia da Computação - Univesp
+- 🎓 Engenheiro da Computação - Univesp
+- 🎓 Bacharel em Tecnologia da Informação
 
 ##
 <br>
@@ -36,8 +37,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
 ##
